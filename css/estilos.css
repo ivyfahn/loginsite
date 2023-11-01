@@ -118,3 +118,7 @@ form .password {
    outline: none;
 }
 
+.account:hover {
+    border-color: #0096FF;
+    transition: .5s;
+}
