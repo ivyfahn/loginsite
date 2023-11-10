@@ -43,7 +43,7 @@ form .input-box {
     background: none;
     outline: none;
     border: 2px solid gray;
-    color:white;
+    color: black;
     
 }
 
@@ -92,6 +92,7 @@ form .input-box {
     font-size: 20px;
     color:#5800FF;
     font-weight: bolder;
+    padding: 10px 3px;
 }
 
 .register-link {
